@@ -1,7 +1,7 @@
 {
   "name": "bitwarden-cleanup",
   "version": "1.0.0",
-  "description": "A collection of simple `Node.js` scripts to assist in cleaning up my Bitwarden content after years of rampant growth",
+  "description": "A collection of simple `Node.js` scripts to assist in cleaning up my Bitwarden content after years of rampant growth.",
   "author": {
     "name": "Bryce Kehoe",
     "email": "bryce@kehoe.co.nz",
